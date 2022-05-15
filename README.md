@@ -4,4 +4,4 @@ OOP training in python. Creational Design Patterns
 * Builder
 * Factory
 * Prototype
-* Singleton
+* Singleton (class, decorator, module)
